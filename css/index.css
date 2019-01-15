@@ -51,8 +51,8 @@ float: right;
 
 .page__title {
 margin-top: 50px;
-font-weight: 900;
-font-size: 65px;
+font-weight: 600;
+font-size: 40px;
 }
 
 .article-list {
@@ -68,13 +68,13 @@ font-size: 65px;
 .article-list__article__heading__name{
     display: inline;
     margin-right: 15px;
-    font-size: 40px;
-    color: #6212A0
+    font-size: 30px;
+    color: #6212A0;
     /* font-weight: 500 */
 
 }
 .article-list__article__heading__date{
-    font-size: 28px;
+    font-size: 20px;
 }
 .article-list__article__heading__tags{
 margin-top: 10px
@@ -87,7 +87,7 @@ margin-top: 10px
 
 .article__content{
     color:#666666;
-    line-height: 200%
+    line-height: 160%
 }
 
 .pure-g-custom{
@@ -96,12 +96,12 @@ margin-top: 10px
 
 .article__content__intro{
 font-weight: 400;
-font-size: 24px
+font-size: 18px
 }
 
 .article__content__body{
 font-weight: 300;
-font-size: 18px
+font-size: 16px
 }
 
 .article__preview-image {
